@@ -1,0 +1,14 @@
+C:\Users\Zeru\Desktop\ROM2\visualbasic\faraday\faraday\developed-app\bin\Debug\netcoreapp3.1\developed-app.exe
+C:\Users\Zeru\Desktop\ROM2\visualbasic\faraday\faraday\developed-app\bin\Debug\netcoreapp3.1\developed-app.deps.json
+C:\Users\Zeru\Desktop\ROM2\visualbasic\faraday\faraday\developed-app\bin\Debug\netcoreapp3.1\developed-app.runtimeconfig.json
+C:\Users\Zeru\Desktop\ROM2\visualbasic\faraday\faraday\developed-app\bin\Debug\netcoreapp3.1\developed-app.runtimeconfig.dev.json
+C:\Users\Zeru\Desktop\ROM2\visualbasic\faraday\faraday\developed-app\bin\Debug\netcoreapp3.1\developed-app.dll
+C:\Users\Zeru\Desktop\ROM2\visualbasic\faraday\faraday\developed-app\bin\Debug\netcoreapp3.1\developed-app.pdb
+C:\Users\Zeru\Desktop\ROM2\visualbasic\faraday\faraday\developed-app\obj\Debug\netcoreapp3.1\developed-app.vbproj.AssemblyReference.cache
+C:\Users\Zeru\Desktop\ROM2\visualbasic\faraday\faraday\developed-app\obj\Debug\netcoreapp3.1\developed-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeru\Desktop\ROM2\visualbasic\faraday\faraday\developed-app\obj\Debug\netcoreapp3.1\developed-app.AssemblyInfoInputs.cache
+C:\Users\Zeru\Desktop\ROM2\visualbasic\faraday\faraday\developed-app\obj\Debug\netcoreapp3.1\developed-app.AssemblyInfo.vb
+C:\Users\Zeru\Desktop\ROM2\visualbasic\faraday\faraday\developed-app\obj\Debug\netcoreapp3.1\developed-app.vbproj.CoreCompileInputs.cache
+C:\Users\Zeru\Desktop\ROM2\visualbasic\faraday\faraday\developed-app\obj\Debug\netcoreapp3.1\developed-app.dll
+C:\Users\Zeru\Desktop\ROM2\visualbasic\faraday\faraday\developed-app\obj\Debug\netcoreapp3.1\developed-app.pdb
+C:\Users\Zeru\Desktop\ROM2\visualbasic\faraday\faraday\developed-app\obj\Debug\netcoreapp3.1\developed-app.genruntimeconfig.cache
